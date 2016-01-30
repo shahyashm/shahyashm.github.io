@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Some information about you!
-Hi, i am Master's Student in Civil Engineering specializing in Structural Engineering and Construction Engineering & Management	
+Hi, i am Master's Student in Civil Engineering specialized in Structural Engineering and Construction Engineering Management	
 ### More Information
 Currently i am looking for Full Time Positions in Civil Engineering area.
 
