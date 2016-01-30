@@ -5,12 +5,11 @@ permalink: /about/
 ---
 
 Some information about you!
-Hi, i am Master's Student in Civil Engineering specialized in Structural Engineering and Construction Engineering Management	
+Hi, I am a Master's in Civil Engineering, Currently i am looking for a Full Time Positions in Civil Engineering area. 
 ### More Information
-Currently i am looking for Full Time Positions in Civil Engineering area.
+My area of Specialization is Structural Engineering and Construction Engineering Management, also i am currently pursuing my License for CMIT.
 
 A place to include any other types of information that you'd like to include about yourself.
-Meanwhile i am doing my research on Holographic Computing Interphase in Civil Engineering area.
+
 ### Contact me
-PLease contact me on shahyashm@gmail.com
-[email@domain.com](mailto:email@domain.com)
+[shahyashm@gmail.com](shahyashm@gmail.com)
